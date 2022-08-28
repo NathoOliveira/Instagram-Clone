@@ -1,2 +1,2 @@
-# Instagram-C-pia
-Cópia do Instagram
+# Instagram-Cópia
+Cópia do Instagram Feita inteiramente em HTML e CSS3
